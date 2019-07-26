@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/custom_predict_background"
+    android:orientation="vertical"
+    tools:context=".activity.Activity_Articel">
+
+    <RelativeLayout
+        android:id="@+id/linearTop"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+        <ImageView
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_25sdp"
+            android:background="@drawable/ic_back_white"
+            android:onClick="imgBack" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="Articel"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_18ssp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <com.astuetz.PagerSlidingTabStrip
+        android:background="@color/colorWhite"
+        android:id="@+id/pagerSlidingTabStrip"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:pstsIndicatorHeight="0dp"
+        app:pstsTabPaddingLeftRight="@dimen/_15sdp"
+        app:pstsTabTextAllCaps="false"
+        app:pstsTabTextColor="@drawable/custom_color_text_tab"
+        app:pstsTabTextSize="@dimen/_15ssp" />
+
+    <androidx.viewpager.widget.ViewPager
+        android:background="@color/colorWhite"
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.activity.WallpaperActivity" />
+
+</LinearLayout>

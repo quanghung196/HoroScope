@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">HoroScope</string>
+
+    <string name="default_zodiac_display_home">Aquarius</string>
+    <string name="email">thelonelydeath196@gmail.com</string>
+    <string name="banner_home_bottom">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitialAd_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="about">
+        SunchTech Team is a mobile development team that creates apps for Play Store with many active users per month worldwide.
+        SunchTech Team always aims at redefining the way people interact with their mobile devices.
+        The unique blend of passion and skills enables to deliver unrivaled products to the end users.
+        We stay focused and create products that drive value to our users and make their life easier.
+</string>
+    <string name="policy">
+         \u0020\u0020\u0020This policy applies to all information collected or submitted my website and our apps for iPhone, iPad, Android and any other devices and platforms (the “Application”).
+What information does the Application obtain and how is it used?
+User Provided Information
+The Application collects information about the words you are learning to provide a targeted learning experience for you. This can include information such as the number of times a word is shown to you, the number of times the audio of a word is played, the last time you’ve seen a word, or how frequently you wish to review a word.
+You may also record your voice to provide yourself feedback on your pronunciation of the foreign language. These recordings are only used for playback to you and are not transferred or copied off of the device except as your own backup of the Application data. Using the voice recording feature is entirely optional. Some mobile operating systems, such as iOS version 8, allow you to deny the Application the ability to do any kind of audio recording. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you permit the Application the ability to do audio recording.
+You may provide other information, including: (a) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (b) information you provide us when you contact us for help.
+We may also use the information you provided us to contact you from time to time to provide you with important information, required notices and marketing promotions.
+Automatically Collected Information
+In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of Internet browsers you use, and information about the way you use the Application.
+We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device and your mobile telephone number. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can’t identify you personally. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, or your non-precise location information (e.g., your zip code) in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere. We may also share encrypted versions of information you have provided in order to enable our partners to append other available information about you for analysis or advertising related use.
+If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled “What are my opt-out rights?” below.
+Does the Application collect precise real time location information of the device?
+This Application does not collect precise information about the location of your mobile device. We may receive or infer information about your location from a variety of sources. For example, the analytics services we use may use the IP address or other data to identify the city where you are using the Application; or we may use your device’s app store or locale settings to determine the country where you are likely using the Application. We use this information to link you to the app store for the country you are in, or to improve the relevance of the ads you see, or to collect anonymous statistics about where the Application is being used.
+Do third parties see and/or have access to information obtained by the Application?
+Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
+We may disclose User Provided and Automatically Collected Information:
+As required by law, such as to comply with a subpoena, or similar legal process;
+When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+With our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+If my is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+To advertisers and third party advertising networks and analytics companies as described in the section above
+What are my opt-out rights?
+Opt-out of all information collection by uninstalling the Application: You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Children
+We do not use the Application to knowingly solicit data from or market to children under the age of 13.
+Security
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+Your Consent
+By using the Application, you consent to this Privacy Policy now and as amended by us.
+Contact us
+If you have questions regarding this privacy policy, you may email vietsmartapps@gmail.com
+Changes
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting those changes here and updating the Privacy Policy modification date below. This policy was last modified on September 8, 2018.
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

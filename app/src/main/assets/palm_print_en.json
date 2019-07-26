@@ -1,0 +1,260 @@
+[
+    {
+        "outro": "What your Life Line represents",
+        "questions": [
+        {
+            "question": "Life Line",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope/image/palms/mainlines_lifeline_long_news.png",
+                "text": "Long and full Life Line",
+                "answer": "Strong life line represents a long life full of vitality and health. Those with a long and full Life Line are usually energetic. You tends to be stable and have an instinct for homemaking. You have the stamina to get things done. You could play a key role and people count on you to stay strong in difficult times. Psychologically, you give people a sense of being real and practical."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_lifeline_short.png",
+                "text": "Short and thin Life Line",
+                "answer": "There’re always a misunderstanding that short life line indicate short life. It’s exaggerated, though it suggests there is a shortness of energy when facing difficulties in life. Specifically, energy isn’t abundant in long term, therefore having less energy for daily routine physical activities. While it’s possible of having plenty of energy in the short term. When ignited, you can effective turn your energy into a lot of creative ideas. To strengthen your life line, try to establishing fixed patterns of eating, sleeping and exercising."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_lifeline_broken.png",
+                "text": "Broken Life Line",
+                "answer": "A break on your dominant hand indicates a major life change, which could be positive or negative. When reading breaks and markings, you can assume that they are relevant to events chronologically. People with a broken life line like to lose themselves in endless problem solving, so it’s often that they would go through challenges in life without reviewing the lesson. Try to keep a habit of reflecting, it helps you sail longer than others."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_lifeline_double.png",
+                "text": "Double Life Line",
+                "answer": "Those with two life lines are full of energy. They have the ability to travel extensively, for the reason such as having two homes, belonging to two countries or even living two lifestyles. Extra line life indicates that you have great confidence in yourself and you’re more likely to take risks."
+            }
+            ]
+        },
+        {
+            "question": "Life Line with other features",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_lifeline_travel.png",
+                "text": "Base segment has a fork branching away from the thumb",
+                "answer": "For most of those having a fork branching away from the thumb, they have two different lifestyles. It could be being a second generation immigrants or belong to two cultures."
+            },
+            {
+                "text": "I do not have a fork on Life line"
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "outro": "What your Head Line represents",
+        "questions": [
+        {
+            "question": "Head Line. Long or short",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope/image/palms/mainlines_headline_long_news.png",
+                "text": "Long line ending under the little finger area",
+                "answer": "A long head line reveals your advantage on intelligence. A person with a long line thinks a long way into the future, every possibilities would be analyzed. You probably think before jump, so making a decision need reflection. You should enjoy quizzes and mind puzzles, or other things that seems to be obscure and abstract to others. However, you can spend time on it and process the information."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_headline_short.png",
+                "text": "Short line ending under the middle finger area",
+                "answer": "A short Head Line means that you’re focus on present. You tend to master a specialist skill and concentrate on a certain aspect. You could develop your own theory of doing things. You’re a highly skilled doer and apply your theory practically."
+            }
+            ]
+        },
+        {
+            "question": "Head Line. Straight or bent",
+            "options": [
+            {
+                "text": "Straight Line of Head",
+                "answer": "People with straight head line often think straightly. Your thinking is logical and rational, and you like fact, and structured thinking systems. You enjoy sunshine and bright ideas."
+            },
+            {
+                "text": "Bent Line of Head",
+                "answer": "If head line is bent, the view of reality tend to be not straightforward. These people like to spend time alone with darkness and shadows, moonlight and candles. They sometime would be moody and indulge with illusions. In others’ eye, they’re artists, poets, and spiritual aspirants."
+            }
+            ]
+        },
+        {
+            "question": "Head Line origin",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_headline_close2index.png",
+                "text": "Origin starts high up above Life line",
+                "answer": "You should be confident and independent. Living far away from your family and friends would not be a challenge for you. You tend to be open-minded and keep seeking unusual and interesting ideas and experiences."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_headline_close2life.png",
+                "text": "Origin down and touching the Life Line",
+                "answer": "You should be living close to your roots or parents. You like to discuss with your parents, and consider their opinions when making decision. Sometime you’re sensitive but you would not like to find the feeling of safety from others."
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "outro": "What your Heart Line represents",
+        "questions": [
+        {
+            "question": "Heart Line origin",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_orig1.png",
+                "text": "Very low below the pinky",
+                "answer": "Your Heart Line suggests that you have strong need for love and intimacy. You should be wide open to love, however, you may be misunderstood as being flirtatious. Actually, you’re a party animal and enjoy surrounded by others. It’s kind of hard for you to commit all your love to only one person."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_orig2.png",
+                "text": "Not so low below the pinky",
+                "answer": "You have many close friends. You are open and share personal information freely, and you make friends easily. You feel comfortable with intimate relationships and with being close to friends."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_orig3.png",
+                "text": "Heart Line originates below pinky",
+                "answer": "You do not feel a strong need for love, though you are open to love and an expression of commitment. You would not easily share personal feelings. You’re a very hard worker and devote much creativity and dedication to work."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_orig4.png",
+                "text": "Heart Line originates in pinky",
+                "answer": "You love money. Be careful, your relationship problems will mostly related to money. Don’t let the money to hinder your intimate relationship. Make good use of money, it can be used for not only power but also dessert for love."
+            }
+            ]
+        },
+        {
+            "question": "Heart Line form",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_end1.png",
+                "text": "Curves up and ends close under middle finger",
+                "answer": "You’re a practical person. You value present the most and you think it must be experienced fully. You would be emotionally down at this moment, but the next moment you mood will suddenly fire up. The psychological mood changes so fast just like tornado that clean up everything that block its way. Therefore, your partner would have a feeling of taking a roller coaster. As you want steady, reliable partner and financial security, you would be faithful."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_end2.png",
+                "text": "Curves up and ends close under index finger.",
+                "answer": "In a relationship, you would take good care of your partner with great love and caring. You tend to give and please your partner before your partner asking. However, you expect the equal return. It’s probably that your partner have a different point of view. You should learn to know that your style of showing love actually meet your own needs firstly. Be careful to prevent a resentful relationship."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_end3.png",
+                "text": "Flat and short ending near middle of palm",
+                "answer": "You could be a DIY person and like fixing things around you. You are practical, loyal, and dependable. You need your personal time to stay alone, and don’t like a partner who seize a lot of time and energy. You may quarrel with your partner sometime, and you then have to stay alone to calm down. Afterward, you can easily forget the bad feeling and forgive the wrongdoings."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_end4.png",
+                "text": "Long and flat ending low under index finger",
+                "answer": "You may be kind of sentimental and idealistic about relationships. You enjoy thinking, analyzing and diagnosing a relationship and spend most of time do that rather than take action. You might get lost in thinking over and over. You are willing and prepared to give up some personal comfort as to make relationship deeper. But when you meet the right person, you find relationship can be better than imagined, and sacrifices are not necessary."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_end5.png",
+                "text": "Long and curving down at end",
+                "answer": "You tend to please others, so you act the way that you think people expect you to act. You have the ability to reading people and then you can find the way the get alone with them. As you keep acting as expected, you might feel uncomfortable to show you real feeling and real idea."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_heartline_end6.png",
+                "text": "Heart Line ending at edge of palm",
+                "answer": "You are warm-hearted, and you love plants, trees, animals and people. You believe that you should give those in need a hand. Pay more attention to yourself and your partner, it helps to foster a more satisfactory relationship."
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "outro": "What your Fate Line represents",
+        "questions": [
+        {
+            "question": "Fate Line form",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_fateline_short.png",
+                "text": "Fate Line is short or missing",
+                "answer": "Your Fate Line is short or missing, it suggests that you may have not established a clear sense of your own character and purpose. Though you have the choice to do anything you want, you’re probably feel unbalanced and unfulfilled. You’re very easy to get along with and are quick to play and have fun. Don’t burn yourself out, you don’t have be what society wants you to be."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope/image/palms/mainlines_fateline_long_news.png",
+                "text": "A long, deep, straight Fate Line",
+                "answer": "A long / deep / straight Fate Line indicates that you have established a clear sense of your own character. People with a long and deep Fate Line are often workaholics, so you might keep finishing tasks and looking for more. Even when on vacations, you won’t let yourself totally stay idle. You enjoy working as you know you’re working toward what you want."
+            }
+            ]
+        },
+        {
+            "question": "The most important part of the line is the point where it starts.",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_fateline_1.png",
+                "text": "Fate Line starts joined to the Life Line",
+                "answer": "You’re a person that greatly affect by your roots / family or other background. You may follow the family profession or follow your parent’s advice on the choice of occupation. Your early family training and related values influence you greatly in decision making."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_fateline_2.png",
+                "text": "Fate Line starts from the centre of the palm",
+                "answer": "You’re an independent person. You have your own idea of making decisions. You don’t depend on you family and friends’ opinion to choose your life style, occupation and others. In a sentence, you won’t blindly follow others, you make your own decision in you life."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_fateline_3.png",
+                "text": "Fate Line starts from the left part of the palm",
+                "answer": "Your family’s values and desire have little effect on your career choice. You value your personal need and satisfaction, and they shape your career and life goals. You like adventure and exploration. You might work with the public with good social skills and solve problems with you creativity."
+            },
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope_palm/image/palms/mainlines_fateline_4.png",
+                "text": "Fate Line starts half-way up the palm",
+                "answer": "You need time to experience a lot of thing and develop a sense of balance, so as to become clearer about yourself. You might find the thing you really want midlife."
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "outro": "What your Minor Lines represents",
+        "questions": [
+        {
+            "question": "Check Minor Lines. Girdles of Venus",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope/image/palms/minorlines_gridlesofvenus_news.png",
+                "text": "\"Girdles of Venus\" Lines (One or more long lines. Even one short line here)",
+                "answer": "Girdles of Venus is a line that appears on the palm at the base of the fingers, which forms a semicircle beginning between the first and second fingers and ending between the third and fourth fingers. Having this line, you are very sensitive about your connections and you’re afraid of a fast developed close relationship. As your feelings can be hurt by others, you need a partner that help you recover and foster confidence. Emotional support is important to you."
+            },
+            {
+                "text": "I dont have this line."
+            }
+            ]
+        },
+        {
+            "question": "Check Minor Lines. Line of Sun",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope/image/palms/minorlines_lineofsun_news.png",
+                "text": "Line of Sun runs vertically below the ring finger.",
+                "answer": "Line of Sun indicates you have capability, talent and popularity which may lead to success. And it’s call the Line of Success and regarded as a sister line to the Fate Line as it could boost the fate line. You have gained the ability to put yourself deep into your own inner space. You may like to stay alone and get absorbed in doing your things, like practicing art, yoga or tai-chi."
+            },
+            {
+                "text": "I dont have this line"
+            }
+            ]
+        },
+        {
+            "question": "Check Minor Lines. Loyalty line",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope/image/palms/minorlines_loyaltyline_news.png",
+                "text": "Loyalty line is a thick crease or line that crosses the thumb ball",
+                "answer": "With Loyalty line, you should be very loyalty, which may be to the family, country, friends or favorite baseball team."
+            },
+            {
+                "text": "I dont have this line"
+            }
+            ]
+        },
+        {
+            "question": "Check Minor Lines. Ring of Solomon",
+            "options": [
+            {
+                "img": "http://resource.cdn.bbcget.com/horoscope/image/palms/minorlines_ringofsolomon_news.png",
+                "text": "A line that curls around the base and cuts off the index finger",
+                "answer": "The Ring of Solomon, also referred to as the Ring of Jupiter, is located at the bottom of the Jupiter finger (index finger) on its mount. It indicates you have strong leadership qualities and are usually found in positions of authority. You should be well respected by others because you’re intelligent and extremely tolerant and thoughtful of others."
+            },
+            {
+                "text": "I dont have this line"
+            }
+            ]
+        }
+        ]
+    }
+]

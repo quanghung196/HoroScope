@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/linearRow">
+
+    <ImageView
+        android:id="@+id/imgZodiacImage"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_100sdp" />
+
+    <TextView
+        android:textStyle="bold"
+        android:textSize="@dimen/_18ssp"
+        android:id="@+id/tvZodiacName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Test Name"
+        android:textColor="@color/color_zodiac_name" />
+
+    <TextView
+        android:textSize="@dimen/_13ssp"
+        android:textStyle="bold"
+        android:layout_marginBottom="@dimen/_10ssp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:id="@+id/tvZodiacDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Test Date"
+        android:textColor="@color/color_zodiac_name" />
+
+</LinearLayout>

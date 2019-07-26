@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_horoScope"
+        android:icon="@drawable/ic_bottom_nav_1"
+        android:title="HoroScope" />
+
+    <item
+        android:id="@+id/nav_feature"
+        android:icon="@drawable/ic_bottom_nav_2"
+        android:title="Feature" />
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_bottom_nav_3"
+        android:title="Setting" />
+</menu>

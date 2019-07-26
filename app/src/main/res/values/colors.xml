@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorGray">#C5C4C4</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorOrange">#ffc300</color>
+    <color name="colorBlue">#b5daf0</color>
+    <color name="colorTransparent">#00000000</color>
+
+
+    <color name="color_Zodiac_Name">#181743</color>
+    <color name="color_bottom_nav_item">#5A40BA</color>
+
+    <color name="color_predict_start">#4A00E0</color>
+    <color name="color_predict_end">#8E2DE2</color>
+    <color name="color_check_start">#373B44</color>
+    <color name="color_check_end">#4286f4</color>
+
+    <color name="color_done_start">#f12711</color>
+    <color name="color_done_end">#f5af19</color>
+    <color name="color_try_again_start">#333399</color>
+    <color name="color_try_again_end">#ff00cc</color>
+    <color name="color_try_again_start_2">#00B4DB</color>
+    <color name="color_try_again_end_2">#0083B0</color>
+
+    <color name="color_text_start">#4776E6</color>
+    <color name="color_text_center">#c5b0de</color>
+    <color name="color_text_end">#8E54E9</color>
+
+    <color name="color_zodiac_name">#19377D</color>
+
+
+</resources>
