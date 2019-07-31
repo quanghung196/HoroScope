@@ -13,6 +13,7 @@
         android:background="@drawable/select_zodiac_top" />
 
     <RelativeLayout
+        android:layout_marginTop="@dimen/_10sdp"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize">
 

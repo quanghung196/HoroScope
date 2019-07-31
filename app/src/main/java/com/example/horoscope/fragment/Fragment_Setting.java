@@ -20,6 +20,8 @@ import com.example.horoscope.R;
 import com.example.horoscope.activity.Activity_Privacy;
 import com.example.horoscope.ultil.SharePrefManager;
 
+import org.pcc.webviewOverlay.WebViewOverlay;
+
 
 public class Fragment_Setting extends Fragment {
 
@@ -32,6 +34,8 @@ public class Fragment_Setting extends Fragment {
     private LinearLayout linearShare;
     private LinearLayout linearSupport;
     private LinearLayout linearAbout;
+
+    WebViewOverlay webViewOverlay;
 
     public Fragment_Setting() {
     }
@@ -58,6 +62,8 @@ public class Fragment_Setting extends Fragment {
         linearShare = view.findViewById(R.id.linearShare);
         linearSupport = view.findViewById(R.id.linearSupport);
         linearAbout = view.findViewById(R.id.linearAbout);
+
+        webViewOverlay = new WebViewOverlay(getContext());
     }
 
     private void buttonListener() {
@@ -75,6 +81,8 @@ public class Fragment_Setting extends Fragment {
                     Intent intent = new Intent(getActivity(), Activity_Privacy.class);
                     intent.putExtra("lala", 1);
                     startActivity(intent);
+                    /*String url = "https://suntechltd.net/privacy-policy/";
+                    webViewOverlay.loadWebViewOverlay(url, null, "Privacy Policy");*/
                     break;
                 case R.id.linearRateApp:
                     rateApp();

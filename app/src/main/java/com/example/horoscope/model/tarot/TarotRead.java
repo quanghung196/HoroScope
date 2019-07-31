@@ -47,10 +47,10 @@ public class TarotRead {
 
     @Override
     public String toString() {
-        return "" + positionHeader + '\'' +
-                "" + interp + '\'' +
-                "" + interpGeneral + '\'' +
-                "" + interpHeader + '\'' +
+        return "   " + positionHeader + '\n' +
+                "   " + interp + '\n' +
+                "   " + interpGeneral + '\n' +
+                "   " + interpHeader + '\'' +
                 "";
     }
 }

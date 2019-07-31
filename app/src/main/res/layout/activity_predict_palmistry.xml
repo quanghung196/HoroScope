@@ -8,6 +8,7 @@
     tools:context=".activity.Activity_Palmistry_Predict">
 
     <RelativeLayout
+        android:layout_marginTop="@dimen/_10sdp"
         android:id="@+id/relativeTop"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize">

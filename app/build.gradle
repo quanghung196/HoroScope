@@ -63,4 +63,6 @@ dependencies {
     implementation 'com.github.cdflynn:turn-layout-manager:v1.2'
 
     implementation 'com.azoft.carousellayoutmanager:carousel:1.2.4'
+    //web view
+    implementation 'org.ptyagicodecamp:WebViewOverlay:1.0.2'
 }
