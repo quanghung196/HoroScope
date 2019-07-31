@@ -1,23 +1,18 @@
 package com.example.horoscope.activity;
 
-import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.os.Handler;
-import android.util.Log;
 import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.horoscope.MainActivity;
 import com.example.horoscope.R;
 import com.example.horoscope.adapter.PalmPicker_Adapter;
 import com.example.horoscope.model.palmistry.Palmistry;
+import com.example.horoscope.ultil.ChangeColorStatusBar;
 import com.example.horoscope.ultil.RecyclerItemClickListener;
-import com.example.horoscope.ultil.SharePrefManager;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,6 +28,7 @@ public class Activity_Palmistry extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ChangeColorStatusBar.changeColorStatusBar(this);
         setContentView(R.layout.activity_palmistry);
 
         init();
@@ -64,8 +60,9 @@ public class Activity_Palmistry extends AppCompatActivity {
             }
 
             @Override
-            public void onLongItemClick(View view, int position) {
+            public boolean onLongItemClick(View view, int position) {
 
+                return false;
             }
         }));
     }

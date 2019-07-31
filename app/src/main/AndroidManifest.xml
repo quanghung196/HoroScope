@@ -14,7 +14,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.Activity_Privacy"></activity>
+        <activity android:name=".activity.Activity_ReadTarotCard"></activity>
+        <activity android:name=".activity.Activity_Privacy" />
         <activity android:name=".activity.Activity_Palmistry_Predict" />
         <activity android:name=".activity.Activity_Tarot" />
         <activity android:name=".activity.Activity_Articel" />

@@ -2,17 +2,12 @@ package com.example.horoscope.activity;
 
 import android.app.Dialog;
 import android.content.Context;
-import android.content.DialogInterface;
-import android.content.Intent;
-import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.LinearGradient;
 import android.graphics.Shader;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
-import android.os.Handler;
 import android.text.TextPaint;
-import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.ImageView;
@@ -20,29 +15,24 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.horoscope.MainActivity;
 import com.example.horoscope.R;
 import com.example.horoscope.adapter.PredictCompatibility_Adapter;
 import com.example.horoscope.adapter.ZodiacPickerFeature_Adapter;
 import com.example.horoscope.model.HoroScope;
 import com.example.horoscope.model.Zodiac;
 import com.example.horoscope.ultil.AdmodManager;
+import com.example.horoscope.ultil.ChangeColorStatusBar;
 import com.example.horoscope.ultil.ReadJson;
 import com.example.horoscope.ultil.RecyclerItemClickListener;
-import com.example.horoscope.ultil.SharePrefManager;
 
-import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -67,6 +57,7 @@ public class Activity_LoveCompatibility extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ChangeColorStatusBar.changeColorStatusBar(this);
         setContentView(R.layout.activity_love_compatibility);
 
         init();
@@ -116,8 +107,9 @@ public class Activity_LoveCompatibility extends AppCompatActivity {
             }
 
             @Override
-            public void onLongItemClick(View view, int position) {
+            public boolean onLongItemClick(View view, int position) {
 
+                return false;
             }
         }));
     }

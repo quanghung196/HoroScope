@@ -14,6 +14,7 @@ import androidx.fragment.app.FragmentManager;
 import com.example.horoscope.fragment.Fragment_Feature;
 import com.example.horoscope.fragment.Fragment_HoroScope;
 import com.example.horoscope.fragment.Fragment_Setting;
+import com.example.horoscope.ultil.ChangeColorStatusBar;
 import com.example.horoscope.ultil.SharePrefManager;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
@@ -29,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //ChangeColorStatusBar.changeColorStatusBar(this, R.color.colorTransparent);
+        ChangeColorStatusBar.changeColorStatusBar(this);
         setContentView(R.layout.activity_main);
 
         init();

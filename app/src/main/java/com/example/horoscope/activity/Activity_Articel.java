@@ -15,6 +15,7 @@ import android.widget.TextView;
 import com.astuetz.PagerSlidingTabStrip;
 import com.example.horoscope.R;
 import com.example.horoscope.adapter.Viewpager_Adapter;
+import com.example.horoscope.ultil.ChangeColorStatusBar;
 import com.example.horoscope.ultil.GetCurrentYear;
 
 public class Activity_Articel extends AppCompatActivity {
@@ -27,6 +28,7 @@ public class Activity_Articel extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ChangeColorStatusBar.changeColorStatusBar(this);
         setContentView(R.layout.activity_articel);
 
         init();

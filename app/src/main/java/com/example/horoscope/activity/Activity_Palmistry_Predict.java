@@ -22,6 +22,7 @@ import com.example.horoscope.model.palmistry.PalmistryOption;
 import com.example.horoscope.model.palmistry.PalmistryPredict;
 import com.example.horoscope.model.palmistry.PalmistryQuestion;
 import com.example.horoscope.ultil.AdmodManager;
+import com.example.horoscope.ultil.ChangeColorStatusBar;
 import com.example.horoscope.ultil.ReadJson;
 import com.example.horoscope.ultil.SharePrefManager;
 import com.google.gson.Gson;
@@ -58,6 +59,7 @@ public class Activity_Palmistry_Predict extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ChangeColorStatusBar.changeColorStatusBar(this);
         setContentView(R.layout.activity_predict_palmistry);
 
         init();

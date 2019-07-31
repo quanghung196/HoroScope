@@ -19,16 +19,15 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.horoscope.MainActivity;
 import com.example.horoscope.R;
 import com.example.horoscope.adapter.PredictCompatibility_Adapter;
 import com.example.horoscope.adapter.ZodiacPickerFeature_Adapter;
 import com.example.horoscope.model.HoroScope;
 import com.example.horoscope.model.Zodiac;
 import com.example.horoscope.ultil.AdmodManager;
+import com.example.horoscope.ultil.ChangeColorStatusBar;
 import com.example.horoscope.ultil.ReadJson;
 import com.example.horoscope.ultil.RecyclerItemClickListener;
-import com.example.horoscope.ultil.SharePrefManager;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -59,6 +58,7 @@ public class Activity_ZodiacCompatibility extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ChangeColorStatusBar.changeColorStatusBar(this);
         setContentView(R.layout.activity_zodiac_compatibility);
 
         init();
@@ -107,8 +107,9 @@ public class Activity_ZodiacCompatibility extends AppCompatActivity {
             }
 
             @Override
-            public void onLongItemClick(View view, int position) {
+            public boolean onLongItemClick(View view, int position) {
 
+                return false;
             }
         }));
     }

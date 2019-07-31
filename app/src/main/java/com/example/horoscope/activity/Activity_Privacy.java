@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import com.example.horoscope.R;
 import com.example.horoscope.ultil.AdmodManager;
+import com.example.horoscope.ultil.ChangeColorStatusBar;
 import com.google.android.gms.ads.AdView;
 
 public class Activity_Privacy extends AppCompatActivity {
@@ -21,6 +22,7 @@ public class Activity_Privacy extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ChangeColorStatusBar.changeColorStatusBar(this);
         setContentView(R.layout.activity_privacy);
 
         init();

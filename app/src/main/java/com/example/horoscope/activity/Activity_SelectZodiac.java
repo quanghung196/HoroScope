@@ -1,9 +1,6 @@
 package com.example.horoscope.activity;
 
-import android.app.Activity;
-import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 
@@ -15,6 +12,7 @@ import com.example.horoscope.MainActivity;
 import com.example.horoscope.R;
 import com.example.horoscope.adapter.ZodiacPicker_Adapter;
 import com.example.horoscope.model.Zodiac;
+import com.example.horoscope.ultil.ChangeColorStatusBar;
 import com.example.horoscope.ultil.RecyclerItemClickListener;
 import com.example.horoscope.ultil.SharePrefManager;
 
@@ -31,6 +29,7 @@ public class Activity_SelectZodiac extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ChangeColorStatusBar.changeColorStatusBar(this);
         setContentView(R.layout.activity_select_zodiac);
 
         init();
@@ -60,8 +59,9 @@ public class Activity_SelectZodiac extends AppCompatActivity {
             }
 
             @Override
-            public void onLongItemClick(View view, int position) {
+            public boolean onLongItemClick(View view, int position) {
 
+                return false;
             }
         }));
     }

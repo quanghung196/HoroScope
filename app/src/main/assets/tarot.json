@@ -1,0 +1,1094 @@
+[
+    {
+      "index": 0,
+      "name": "The Fool",
+      "one_liner": "Let go of expectations and trust your instincts.",
+      "canonical_rank": "the-fool",
+      "rank_index": 0,
+      "rank_name": "The Fool",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/0.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/0.jpg"
+      }
+    },
+    {
+      "index": 1,
+      "name": "The Magician",
+      "one_liner": "Be creative and stay open -- your possibilities are endless.",
+      "canonical_rank": "the-magician",
+      "rank_index": 1,
+      "rank_name": "The Magician",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/1.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/1.jpg"
+      }
+    },
+    {
+      "index": 2,
+      "name": "The High Priestess",
+      "one_liner": "Get your self out of the way and become attuned to a more spiritual view.",
+      "canonical_rank": "the-high-priestess",
+      "rank_index": 2,
+      "rank_name": "The High Priestess",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/2.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/2.jpg"
+      }
+    },
+    {
+      "index": 3,
+      "name": "The Empress",
+      "one_liner": "Look for opportunities to be generous, warm, and nurturing.",
+      "canonical_rank": "the-empress",
+      "rank_index": 3,
+      "rank_name": "The Empress",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/3.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/3.jpg"
+      }
+    },
+    {
+      "index": 4,
+      "name": "The Emperor",
+      "one_liner": "You have the wisdom and authority to achieve your goals.",
+      "canonical_rank": "the-emperor",
+      "rank_index": 4,
+      "rank_name": "The Emperor",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/4.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/4.jpg"
+      }
+    },
+    {
+      "index": 5,
+      "name": "The Hierophant",
+      "one_liner": "Expand your inner knowledge and share it with others.",
+      "canonical_rank": "the-hierophant",
+      "rank_index": 5,
+      "rank_name": "The Hierophant",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/5.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/5.jpg"
+      }
+    },
+    {
+      "index": 6,
+      "name": "The Lovers",
+      "one_liner": "Integrate two potential realities or let go of one of them.",
+      "canonical_rank": "the-lovers",
+      "rank_index": 6,
+      "rank_name": "The Lovers",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/6.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/6.jpg"
+      }
+    },
+    {
+      "index": 7,
+      "name": "The Chariot",
+      "one_liner": "Use your powers of freedom and flexibility to drive your future.",
+      "canonical_rank": "the-chariot",
+      "rank_index": 7,
+      "rank_name": "The Chariot",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/7.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/7.jpg"
+      }
+    },
+    {
+      "index": 8,
+      "name": "Strength",
+      "one_liner": "Balance your primal force with intution and compassion.",
+      "canonical_rank": "strength",
+      "rank_index": 8,
+      "rank_name": "Strength",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/8.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/8.jpg"
+      }
+    },
+    {
+      "index": 9,
+      "name": "The Hermit",
+      "one_liner": "Gaze into the mysteries of your inner life.",
+      "canonical_rank": "the-hermit",
+      "rank_index": 9,
+      "rank_name": "The Hermit",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/9.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/9.jpg"
+      }
+    },
+    {
+      "index": 10,
+      "name": "Wheel of Fortune",
+      "one_liner": "Learn to go with the flow without resisting ups and downs.",
+      "canonical_rank": "wheel-of-fortune",
+      "rank_index": 10,
+      "rank_name": "Wheel of Fortune",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/10.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/10.jpg"
+      }
+    },
+    {
+      "index": 11,
+      "name": "Justice",
+      "one_liner": "Balance the scales to support truth and serve the greatest good.",
+      "canonical_rank": "justice",
+      "rank_index": 11,
+      "rank_name": "Justice",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/11.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/11.jpg"
+      }
+    },
+    {
+      "index": 12,
+      "name": "The Hanged Man",
+      "one_liner": "You have reached a crossroads, making it possible to clear the slate and start over.",
+      "canonical_rank": "the-hanged-man",
+      "rank_index": 12,
+      "rank_name": "The Hanged Man",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/12.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/12.jpg"
+      }
+    },
+    {
+      "index": 13,
+      "name": "Death",
+      "one_liner": "Shed the old to make room for the new.",
+      "canonical_rank": "death",
+      "rank_index": 13,
+      "rank_name": "Death",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/13.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/13.jpg"
+      }
+    },
+    {
+      "index": 14,
+      "name": "Temperance",
+      "one_liner": "The time is now for self-healing.",
+      "canonical_rank": "temperance",
+      "rank_index": 14,
+      "rank_name": "Temperance",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/14.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/14.jpg"
+      }
+    },
+    {
+      "index": 15,
+      "name": "The Devil",
+      "one_liner": "Put subtlety aside and empower your passion and confidence.",
+      "canonical_rank": "the-devil",
+      "rank_index": 15,
+      "rank_name": "The Devil",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/15.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/15.jpg"
+      }
+    },
+    {
+      "index": 16,
+      "name": "The Tower",
+      "one_liner": "Because of circumstances beyond your control, you have no choice.",
+      "canonical_rank": "the-tower",
+      "rank_index": 16,
+      "rank_name": "The Tower",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/16.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/16.jpg"
+      }
+    },
+    {
+      "index": 17,
+      "name": "The Star",
+      "one_liner": "Rise above your day-to-day and connect with the divine.",
+      "canonical_rank": "the-star",
+      "rank_index": 17,
+      "rank_name": "The Star",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/17.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/17.jpg"
+      }
+    },
+    {
+      "index": 18,
+      "name": "The Moon",
+      "one_liner": "This is an opportunity to draw messages from your inner self.",
+      "canonical_rank": "the-moon",
+      "rank_index": 18,
+      "rank_name": "The Moon",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/18.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/18.jpg"
+      }
+    },
+    {
+      "index": 19,
+      "name": "The Sun",
+      "one_liner": "You are in the right place at the right time.",
+      "canonical_rank": "the-sun",
+      "rank_index": 19,
+      "rank_name": "The Sun",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/19.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/19.jpg"
+      }
+    },
+    {
+      "index": 20,
+      "name": "Judgement",
+      "one_liner": "You have the power to make changes and feel complete.",
+      "canonical_rank": "judgement",
+      "rank_index": 20,
+      "rank_name": "Judgement",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/20.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/20.jpg"
+      }
+    },
+    {
+      "index": 21,
+      "name": "The World",
+      "one_liner": "You are in a timeless state of grace where all is well. ",
+      "canonical_rank": "the-world",
+      "rank_index": 21,
+      "rank_name": "The World",
+      "canonical_suit": "trumps",
+      "suit_name": "Trumps",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/21.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/21.jpg"
+      }
+    },
+    {
+      "index": 22,
+      "name": "Ace of Wands",
+      "one_liner": "Stay attentive to your goal even as change accelerates.",
+      "canonical_rank": "ace-of-wands",
+      "rank_index": 1,
+      "rank_name": "Ace",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/22.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/22.jpg"
+      }
+    },
+    {
+      "index": 23,
+      "name": "Two of Wands",
+      "one_liner": "Assess your situation with patience and self-restraint.",
+      "canonical_rank": "two-of-wands",
+      "rank_index": 2,
+      "rank_name": "Two",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/23.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/23.jpg"
+      }
+    },
+    {
+      "index": 24,
+      "name": "Three of Wands",
+      "one_liner": "You are prepared to take risks to explore new opportunities or enterprises.",
+      "canonical_rank": "three-of-wands",
+      "rank_index": 3,
+      "rank_name": "Three",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/24.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/24.jpg"
+      }
+    },
+    {
+      "index": 25,
+      "name": "Four of Wands",
+      "one_liner": "When you act upon a shared vision it will have far reaching effects.",
+      "canonical_rank": "four-of-wands",
+      "rank_index": 4,
+      "rank_name": "Four",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/25.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/25.jpg"
+      }
+    },
+    {
+      "index": 26,
+      "name": "Five of Wands",
+      "one_liner": "Let your focus be on advancing your cause.",
+      "canonical_rank": "five-of-wands",
+      "rank_index": 5,
+      "rank_name": "Five",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/26.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/26.jpg"
+      }
+    },
+    {
+      "index": 27,
+      "name": "Six of Wands",
+      "one_liner": "Your enthusiastic stewardship is producing dramatic results.",
+      "canonical_rank": "six-of-wands",
+      "rank_index": 6,
+      "rank_name": "Six",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/27.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/27.jpg"
+      }
+    },
+    {
+      "index": 28,
+      "name": "Seven of Wands",
+      "one_liner": "A positive attitude and strong potential will prime you to achieve your personal best.",
+      "canonical_rank": "seven-of-wands",
+      "rank_index": 7,
+      "rank_name": "Seven",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/28.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/28.jpg"
+      }
+    },
+    {
+      "index": 29,
+      "name": "Eight of Wands",
+      "one_liner": "Accelerating growth challenges you to keep up with what you are creating in your life.",
+      "canonical_rank": "eight-of-wands",
+      "rank_index": 8,
+      "rank_name": "Eight",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/29.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/29.jpg"
+      }
+    },
+    {
+      "index": 30,
+      "name": "Nine of Wands",
+      "one_liner": "Find someone who can fill in for you and take time to refresh your energy.",
+      "canonical_rank": "nine-of-wands",
+      "rank_index": 9,
+      "rank_name": "Nine",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/30.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/30.jpg"
+      }
+    },
+    {
+      "index": 31,
+      "name": "Ten of Wands",
+      "one_liner": "You are beginning to realize that what you have been pursuing is actually internal.",
+      "canonical_rank": "ten-of-wands",
+      "rank_index": 10,
+      "rank_name": "Ten",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/31.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/31.jpg"
+      }
+    },
+    {
+      "index": 32,
+      "name": "Page of Wands",
+      "one_liner": "You are an agent of innovation and change.",
+      "canonical_rank": "page-of-wands",
+      "rank_index": 11,
+      "rank_name": "Page",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/32.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/32.jpg"
+      }
+    },
+    {
+      "index": 33,
+      "name": "Knight of Wands",
+      "one_liner": "A new journey of discovery is about to be embarked upon.",
+      "canonical_rank": "knight-of-wands",
+      "rank_index": 12,
+      "rank_name": "Knight",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/33.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/33.jpg"
+      }
+    },
+    {
+      "index": 34,
+      "name": "Queen of Wands",
+      "one_liner": "Decisiveness and a willingness to lead produce tangible rewards.",
+      "canonical_rank": "queen-of-wands",
+      "rank_index": 13,
+      "rank_name": "Queen",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/34.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/34.jpg"
+      }
+    },
+    {
+      "index": 35,
+      "name": "King of Wands",
+      "one_liner": "Stay balanced and use power wisely to set a good example.",
+      "canonical_rank": "king-of-wands",
+      "rank_index": 14,
+      "rank_name": "King",
+      "canonical_suit": "wands",
+      "suit_name": "Wands",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/35.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/35.jpg"
+      }
+    },
+    {
+      "index": 36,
+      "name": "Ace of Cups",
+      "one_liner": "A fountain of abundance nourishes your life.",
+      "canonical_rank": "ace-of-cups",
+      "rank_index": 1,
+      "rank_name": "Ace",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/36.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/36.jpg"
+      }
+    },
+    {
+      "index": 37,
+      "name": "Two of Cups",
+      "one_liner": "Your emotional, psychic and spiritual lives are quickening like spring.",
+      "canonical_rank": "two-of-cups",
+      "rank_index": 2,
+      "rank_name": "Two",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/37.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/37.jpg"
+      }
+    },
+    {
+      "index": 38,
+      "name": "Three of Cups",
+      "one_liner": "Celebrate friendships and close companions.",
+      "canonical_rank": "three-of-cups",
+      "rank_index": 3,
+      "rank_name": "Three",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/38.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/38.jpg"
+      }
+    },
+    {
+      "index": 39,
+      "name": "Four of Cups",
+      "one_liner": "Your will has dissipated and your mind is distracted from its true goal.",
+      "canonical_rank": "four-of-cups",
+      "rank_index": 4,
+      "rank_name": "Four",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/39.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/39.jpg"
+      }
+    },
+    {
+      "index": 40,
+      "name": "Five of Cups",
+      "one_liner": "Take action to change past patterns.",
+      "canonical_rank": "five-of-cups",
+      "rank_index": 5,
+      "rank_name": "Five",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/40.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/40.jpg"
+      }
+    },
+    {
+      "index": 41,
+      "name": "Six of Cups",
+      "one_liner": "You need to be more powerful, directing the flow rather than following.",
+      "canonical_rank": "six-of-cups",
+      "rank_index": 6,
+      "rank_name": "Six",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/41.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/41.jpg"
+      }
+    },
+    {
+      "index": 42,
+      "name": "Seven of Cups",
+      "one_liner": "Among your many options, choose the one closest to your heart.",
+      "canonical_rank": "seven-of-cups",
+      "rank_index": 7,
+      "rank_name": "Seven",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/42.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/42.jpg"
+      }
+    },
+    {
+      "index": 43,
+      "name": "Eight of Cups",
+      "one_liner": "You are strong enough to gain wisdom from a challenging experience.",
+      "canonical_rank": "eight-of-cups",
+      "rank_index": 8,
+      "rank_name": "Eight",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/43.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/43.jpg"
+      }
+    },
+    {
+      "index": 44,
+      "name": "Nine of Cups",
+      "one_liner": "You are finally where you had hoped and dreamed to be.",
+      "canonical_rank": "nine-of-cups",
+      "rank_index": 9,
+      "rank_name": "Nine",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/44.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/44.jpg"
+      }
+    },
+    {
+      "index": 45,
+      "name": "Ten of Cups",
+      "one_liner": "Inner and outer harmony is cause for celebration.",
+      "canonical_rank": "ten-of-cups",
+      "rank_index": 10,
+      "rank_name": "Ten",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/45.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/45.jpg"
+      }
+    },
+    {
+      "index": 46,
+      "name": "Page of Cups",
+      "one_liner": "Beware forgetting to look out for yourself lest you be played for a fool.",
+      "canonical_rank": "page-of-cups",
+      "rank_index": 11,
+      "rank_name": "Page",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/46.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/46.jpg"
+      }
+    },
+    {
+      "index": 47,
+      "name": "Knight of Cups",
+      "one_liner": "The final steps of a long journey are about to be completed.",
+      "canonical_rank": "knight-of-cups",
+      "rank_index": 12,
+      "rank_name": "Knight",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/47.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/47.jpg"
+      }
+    },
+    {
+      "index": 48,
+      "name": "Queen of Cups",
+      "one_liner": "You are called upon to be a loving master of emotional integrity.",
+      "canonical_rank": "queen-of-cups",
+      "rank_index": 13,
+      "rank_name": "Queen",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/48.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/48.jpg"
+      }
+    },
+    {
+      "index": 49,
+      "name": "King of Cups",
+      "one_liner": "This is your time to shine and for your accomplishments to be recognized.",
+      "canonical_rank": "king-of-cups",
+      "rank_index": 14,
+      "rank_name": "King",
+      "canonical_suit": "cups",
+      "suit_name": "Cups",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/49.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/49.jpg"
+      }
+    },
+    {
+      "index": 50,
+      "name": "Ace of Swords",
+      "one_liner": "You are clear about the principal objective you need to accomplish.",
+      "canonical_rank": "ace-of-swords",
+      "rank_index": 1,
+      "rank_name": "Ace",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/50.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/50.jpg"
+      }
+    },
+    {
+      "index": 51,
+      "name": "Two of Swords",
+      "one_liner": "Spend some time gathering information before taking action.",
+      "canonical_rank": "two-of-swords",
+      "rank_index": 2,
+      "rank_name": "Two",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/51.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/51.jpg"
+      }
+    },
+    {
+      "index": 52,
+      "name": "Three of Swords",
+      "one_liner": "Misunderstandings are straining a relationship to the breaking point.",
+      "canonical_rank": "three-of-swords",
+      "rank_index": 3,
+      "rank_name": "Three",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/52.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/52.jpg"
+      }
+    },
+    {
+      "index": 53,
+      "name": "Four of Swords",
+      "one_liner": "Summon creativity and resourcefulness from the depths of your being.",
+      "canonical_rank": "four-of-swords",
+      "rank_index": 4,
+      "rank_name": "Four",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/53.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/53.jpg"
+      }
+    },
+    {
+      "index": 54,
+      "name": "Five of Swords",
+      "one_liner": "A feeling of imbalance and negativity prevails.",
+      "canonical_rank": "five-of-swords",
+      "rank_index": 5,
+      "rank_name": "Five",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/54.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/54.jpg"
+      }
+    },
+    {
+      "index": 55,
+      "name": "Six of Swords",
+      "one_liner": "Use a combination of technical skill and intuition to reach your goals.",
+      "canonical_rank": "six-of-swords",
+      "rank_index": 6,
+      "rank_name": "Six",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/55.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/55.jpg"
+      }
+    },
+    {
+      "index": 56,
+      "name": "Seven of Swords",
+      "one_liner": "You have trained yourself to instinctively notice the opportunity.",
+      "canonical_rank": "seven-of-swords",
+      "rank_index": 7,
+      "rank_name": "Seven",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/56.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/56.jpg"
+      }
+    },
+    {
+      "index": 57,
+      "name": "Eight of Swords",
+      "one_liner": "This is your moment to be tested and tried.",
+      "canonical_rank": "eight-of-swords",
+      "rank_index": 8,
+      "rank_name": "Eight",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/57.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/57.jpg"
+      }
+    },
+    {
+      "index": 58,
+      "name": "Nine of Swords",
+      "one_liner": "Allow yourself to look forward to the future with optimism.",
+      "canonical_rank": "nine-of-swords",
+      "rank_index": 9,
+      "rank_name": "Nine",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/58.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/58.jpg"
+      }
+    },
+    {
+      "index": 59,
+      "name": "Ten of Swords",
+      "one_liner": "You are up against the wall, and it is appropriate to admit it.",
+      "canonical_rank": "ten-of-swords",
+      "rank_index": 10,
+      "rank_name": "Ten",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/59.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/59.jpg"
+      }
+    },
+    {
+      "index": 60,
+      "name": "Page of Swords",
+      "one_liner": "Clarify your motives before you get involved.",
+      "canonical_rank": "page-of-swords",
+      "rank_index": 11,
+      "rank_name": "Page",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/60.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/60.jpg"
+      }
+    },
+    {
+      "index": 61,
+      "name": "Knight of Swords",
+      "one_liner": "When you answer a challenge, prepare for the consequences.",
+      "canonical_rank": "knight-of-swords",
+      "rank_index": 12,
+      "rank_name": "Knight",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/61.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/61.jpg"
+      }
+    },
+    {
+      "index": 62,
+      "name": "Queen of Swords",
+      "one_liner": "This is a good time to assert your individuality.",
+      "canonical_rank": "queen-of-swords",
+      "rank_index": 13,
+      "rank_name": "Queen",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/62.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/62.jpg"
+      }
+    },
+    {
+      "index": 63,
+      "name": "King of Swords",
+      "one_liner": "Employ patient listening and ask penetrating questions.",
+      "canonical_rank": "king-of-swords",
+      "rank_index": 14,
+      "rank_name": "King",
+      "canonical_suit": "swords",
+      "suit_name": "Swords",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/63.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/63.jpg"
+      }
+    },
+    {
+      "index": 64,
+      "name": "Ace of Coins",
+      "one_liner": "You are becoming increasingly aware of your contribution and value.",
+      "canonical_rank": "ace-of-coins",
+      "rank_index": 1,
+      "rank_name": "Ace",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/64.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/64.jpg"
+      }
+    },
+    {
+      "index": 65,
+      "name": "Two of Coins",
+      "one_liner": "Wait patiently for circumstances to sort themselves out.",
+      "canonical_rank": "two-of-coins",
+      "rank_index": 2,
+      "rank_name": "Two",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/65.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/65.jpg"
+      }
+    },
+    {
+      "index": 66,
+      "name": "Three of Coins",
+      "one_liner": "Your leadership in a cooperative effort brings exceptional results.",
+      "canonical_rank": "three-of-coins",
+      "rank_index": 3,
+      "rank_name": "Three",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/66.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/66.jpg"
+      }
+    },
+    {
+      "index": 67,
+      "name": "Four of Coins",
+      "one_liner": "Cultivate a feeling of gratitude and make the best use of your advantage.",
+      "canonical_rank": "four-of-coins",
+      "rank_index": 4,
+      "rank_name": "Four",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/67.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/67.jpg"
+      }
+    },
+    {
+      "index": 68,
+      "name": "Five of Coins",
+      "one_liner": "Consider carefully what consequences may result from joining forces.",
+      "canonical_rank": "five-of-coins",
+      "rank_index": 5,
+      "rank_name": "Five",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/68.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/68.jpg"
+      }
+    },
+    {
+      "index": 69,
+      "name": "Six of Coins",
+      "one_liner": "You are in a position to be generous if you want to be.",
+      "canonical_rank": "six-of-coins",
+      "rank_index": 6,
+      "rank_name": "Six",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/69.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/69.jpg"
+      }
+    },
+    {
+      "index": 70,
+      "name": "Seven of Coins",
+      "one_liner": "Your personal power is growing and others are taking notice.",
+      "canonical_rank": "seven-of-coins",
+      "rank_index": 7,
+      "rank_name": "Seven",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/70.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/70.jpg"
+      }
+    },
+    {
+      "index": 71,
+      "name": "Eight of Coins",
+      "one_liner": "Give yourself credit for the quality work you are producing.",
+      "canonical_rank": "eight-of-coins",
+      "rank_index": 8,
+      "rank_name": "Eight",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/71.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/71.jpg"
+      }
+    },
+    {
+      "index": 72,
+      "name": "Nine of Coins",
+      "one_liner": "The abundance you enjoy allows you the freedom to be yourself.",
+      "canonical_rank": "nine-of-coins",
+      "rank_index": 9,
+      "rank_name": "Nine",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/72.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/72.jpg"
+      }
+    },
+    {
+      "index": 73,
+      "name": "Ten of Coins",
+      "one_liner": "You are required to meet obligations.",
+      "canonical_rank": "ten-of-coins",
+      "rank_index": 10,
+      "rank_name": "Ten",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/73.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/73.jpg"
+      }
+    },
+    {
+      "index": 74,
+      "name": "Page of Coins",
+      "one_liner": "You are reinventing yourself to create a better fit with your chosen profession.",
+      "canonical_rank": "page-of-coins",
+      "rank_index": 11,
+      "rank_name": "Page",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/74.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/74.jpg"
+      }
+    },
+    {
+      "index": 75,
+      "name": "Knight of Coins",
+      "one_liner": "Cultivate your investments using good timing and skillful management.",
+      "canonical_rank": "knight-of-coins",
+      "rank_index": 12,
+      "rank_name": "Knight",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/75.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/75.jpg"
+      }
+    },
+    {
+      "index": 76,
+      "name": "Queen of Coins",
+      "one_liner": "Use your your penetrating intuition to divine new meanings.",
+      "canonical_rank": "queen-of-coins",
+      "rank_index": 13,
+      "rank_name": "Queen",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/76.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/76.jpg"
+      }
+    },
+    {
+      "index": 77,
+      "name": "King of Coins",
+      "one_liner": "Make unpressured choices, dream big dreams -- and be generous.",
+      "canonical_rank": "king-of-coins",
+      "rank_index": 14,
+      "rank_name": "King",
+      "canonical_suit": "coins",
+      "suit_name": "Coins",
+      "images": {
+        "full": "https://gfx.tarot.com/images/site/decks/universal-waite/full_size/77.jpg",
+        "table": "https://gfx.tarot.com/images/site/decks/universal-waite/table_card/77.jpg"
+      }
+    }
+  ]

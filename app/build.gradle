@@ -57,4 +57,10 @@ dependencies {
     implementation 'com.intuit.ssp:ssp-android:1.0.6'
     //admob
     implementation 'com.google.android.gms:play-services-ads:15.0.0'
+    //flipView
+    implementation 'com.wajahatkarim3.EasyFlipView:EasyFlipView:2.1.2'
+    //turn layout manager
+    implementation 'com.github.cdflynn:turn-layout-manager:v1.2'
+
+    implementation 'com.azoft.carousellayoutmanager:carousel:1.2.4'
 }

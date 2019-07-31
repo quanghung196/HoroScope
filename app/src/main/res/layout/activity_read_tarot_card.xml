@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tarot_bg"
+    android:orientation="vertical"
+    tools:context=".activity.Activity_ReadTarotCard">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+        <ImageView
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_25sdp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_25sdp"
+            android:background="@drawable/ic_back_white"
+            android:onClick="imgBack" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="@font/tarot"
+            android:gravity="center"
+            android:text="Today's tarot"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_35ssp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tvCardName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:fontFamily="@font/tarot"
+        android:gravity="center"
+        android:text="Card Name"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/_20ssp" />
+
+    <com.yarolegovich.discretescrollview.DiscreteScrollView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_160sdp"
+        android:layout_centerVertical="true"
+        tools:listitem="@layout/row_tarot" />
+
+    <TextView
+        android:id="@+id/tvCardPlace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:fontFamily="@font/tarot"
+        android:gravity="center"
+        android:text="Card Place"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/_20ssp" />
+
+    <ScrollView
+        android:background="@color/colorTransparent20"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tvCardRead"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/tarot"
+            android:padding="@dimen/_10sdp"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_16ssp" />
+    </ScrollView>
+
+</LinearLayout>

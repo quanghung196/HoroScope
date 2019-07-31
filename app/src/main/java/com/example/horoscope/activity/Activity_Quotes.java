@@ -26,6 +26,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.horoscope.MainActivity;
 import com.example.horoscope.R;
 import com.example.horoscope.adapter.Quotes_Adapter;
+import com.example.horoscope.ultil.ChangeColorStatusBar;
 import com.example.horoscope.ultil.ReadJson;
 import com.example.horoscope.ultil.SharePrefManager;
 import com.gun0912.tedpermission.PermissionListener;
@@ -68,6 +69,7 @@ public class Activity_Quotes extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        ChangeColorStatusBar.changeColorStatusBar(this);
         setContentView(R.layout.activity_quotes);
 
         init();

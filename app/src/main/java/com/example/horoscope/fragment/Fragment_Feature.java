@@ -1,8 +1,6 @@
 package com.example.horoscope.fragment;
 
-import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,13 +11,15 @@ import android.widget.Toast;
 import androidx.fragment.app.Fragment;
 
 import com.example.horoscope.R;
-import com.example.horoscope.activity.Activity_Articel;
 import com.example.horoscope.activity.Activity_LoveCompatibility;
 import com.example.horoscope.activity.Activity_Palmistry;
 import com.example.horoscope.activity.Activity_Quotes;
+import com.example.horoscope.activity.Activity_ReadTarotCard;
 import com.example.horoscope.activity.Activity_Tarot;
 import com.example.horoscope.activity.Activity_ZodiacCompatibility;
 import com.example.horoscope.ultil.SharePrefManager;
+
+import java.util.Calendar;
 
 public class Fragment_Feature extends Fragment {
 
@@ -72,9 +72,7 @@ public class Fragment_Feature extends Fragment {
                     startActivity(intent3);
                     break;
                 case R.id.linearTarot:
-                    Toast.makeText(getActivity(), "Comming soon", Toast.LENGTH_SHORT).show();
-                    /*Intent intent4 = new Intent(getActivity(), Activity_Tarot.class);
-                    startActivity(intent4);*/
+                    hasReadYet();
                     break;
                 case R.id.linearArticel:
                     Toast.makeText(getActivity(), "Comming soon", Toast.LENGTH_SHORT).show();
@@ -88,4 +86,20 @@ public class Fragment_Feature extends Fragment {
             }
         }
     };
+
+    public void hasReadYet() {
+        Intent intent4 = new Intent(getActivity(), Activity_Tarot.class);
+        Calendar calendar = Calendar.getInstance();
+        int curentDay = calendar.get(Calendar.DATE);
+        if (curentDay == SharePrefManager.getDate(getActivity())) {
+            if (SharePrefManager.getBool(getActivity())) {
+                startActivity(intent4);
+            } else {
+                Intent intent5 = new Intent(getActivity(), Activity_ReadTarotCard.class);
+                startActivity(intent5);
+            }
+        } else {
+            startActivity(intent4);
+        }
+    }
 }

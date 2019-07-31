@@ -1,15 +1,243 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/tarot_bg"
     tools:context=".activity.Activity_Tarot">
 
-    <TextView
+    <LinearLayout
+        android:id="@+id/linearMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize">
+
+            <ImageView
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/_25sdp"
+                android:background="@drawable/ic_back_white"
+                android:onClick="imgBack" />
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:fontFamily="@font/tarot"
+                android:gravity="center"
+                android:text="Today's tarot"
+                android:textColor="@color/colorWhite"
+                android:textSize="@dimen/_35ssp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/linearFlip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:orientation="vertical"
+            android:touchscreenBlocksFocus="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <com.wajahatkarim3.easyflipview.EasyFlipView
+                    android:id="@+id/flip1"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_150sdp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    app:flipFrom="front"
+                    app:flipType="horizontal">
+
+                    <ImageView
+                        android:id="@+id/imgBack1"
+                        android:layout_width="@dimen/_90sdp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center" />
+
+
+                    <ImageView
+                        android:id="@+id/imgFront1"
+                        android:layout_width="@dimen/_90sdp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:background="@drawable/card_empty" />
+
+                </com.wajahatkarim3.easyflipview.EasyFlipView>
+
+                <com.wajahatkarim3.easyflipview.EasyFlipView
+                    android:id="@+id/flip2"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_150sdp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    app:flipFrom="front"
+                    app:flipType="horizontal">
+
+                    <ImageView
+                        android:id="@+id/imgBack2"
+                        android:layout_width="@dimen/_90sdp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center" />
+
+                    <ImageView
+                        android:id="@+id/imgFront2"
+                        android:layout_width="@dimen/_90sdp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:background="@drawable/card_empty" />
+
+                </com.wajahatkarim3.easyflipview.EasyFlipView>
+
+                <com.wajahatkarim3.easyflipview.EasyFlipView
+                    android:id="@+id/flip3"
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_150sdp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    app:flipFrom="front"
+                    app:flipType="horizontal">
+
+                    <ImageView
+                        android:id="@+id/imgBack3"
+                        android:layout_width="@dimen/_90sdp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center" />
+
+                    <ImageView
+                        android:id="@+id/imgFront3"
+                        android:layout_width="@dimen/_90sdp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:background="@drawable/card_empty" />
+
+                </com.wajahatkarim3.easyflipview.EasyFlipView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="3">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/tarot"
+                    android:gravity="center"
+                    android:text="Self"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/_18ssp" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/tarot"
+                    android:gravity="center"
+                    android:text="Situation"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/_18ssp" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:fontFamily="@font/tarot"
+                    android:gravity="center"
+                    android:text="Challengers"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/_18ssp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearTop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:orientation="horizontal"
+                android:weightSum="10">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center"
+                    android:layout_weight="3"
+                    android:background="@color/colorWhite" />
+
+                <TextView
+                    android:layout_width="@dimen/_10sdp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:fontFamily="@font/tarot"
+                    android:gravity="center"
+                    android:text="Choose 3 cards"
+                    android:textAllCaps="true"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/_18ssp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="@dimen/_1sdp"
+                    android:layout_gravity="center"
+                    android:layout_weight="3"
+                    android:background="@color/colorWhite" />
+
+            </LinearLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerCard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:scrollbars="none"
+                tools:listitem="@layout/row_card"></androidx.recyclerview.widget.RecyclerView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnWatch"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="50dp"
-        android:text="tarot"/>
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/_50sdp"
+        android:background="@drawable/custom_btn_done_bg"
+        android:onClick="setBtnWatch"
+        android:paddingLeft="@dimen/_20sdp"
+        android:paddingRight="@dimen/_20sdp"
+        android:fontFamily="@font/tarot"
+        android:text="Shuffle Cards"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/_20ssp"
+        android:visibility="gone" />
 
-</LinearLayout>
+</RelativeLayout>

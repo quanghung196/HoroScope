@@ -7,6 +7,9 @@ import android.content.SharedPreferences;
 
 import com.example.horoscope.R;
 
+import java.util.List;
+import java.util.StringTokenizer;
+
 public class SharePrefManager {
 
     /*public static void setPosition(Context context, int position) {
@@ -56,5 +59,53 @@ public class SharePrefManager {
         Intent intent = new Intent(activity, classs);
         intent.putExtra("Position", 1);
         context.startActivity(intent);
+    }
+
+    public static int getDate(Context context) {
+        SharedPreferences getDate = context.getSharedPreferences("Date", Context.MODE_PRIVATE);
+        return getDate.getInt("date", 1);
+    }
+
+    public static void setDate(Context context, int date) {
+        SharedPreferences setDate = context.getSharedPreferences("Date", Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = setDate.edit();
+        editor.putInt("date", date);
+        editor.commit();
+    }
+
+    public static void saveValueRandomList(Context context, List<Integer> randoms) {
+        SharedPreferences randomValue = context.getSharedPreferences("Rand", Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = randomValue.edit();
+        StringBuilder str = new StringBuilder();
+        for (int i = 0; i < randoms.size(); i++) {
+            str.append(randoms.get(i)).append(",");
+        }
+        editor.putString("rand", str.toString());
+        editor.commit();
+    }
+
+    public static void getValueSaved(Context context, List<Integer> randoms) {
+        SharedPreferences getValue = context.getSharedPreferences("Rand", Context.MODE_PRIVATE);
+        String savedString = getValue.getString("rand", "");
+        if (savedString.trim() != "") {
+            StringTokenizer st = new StringTokenizer(savedString, ",");
+            if(randoms.size()<3){
+                for (int i = 0; i < 3; i++) {
+                    randoms.add(Integer.parseInt(st.nextToken()));
+                }
+            }
+        }
+    }
+
+    public static boolean getBool(Context context) {
+        SharedPreferences getBool = context.getSharedPreferences("Bool", Context.MODE_PRIVATE);
+        return getBool.getBoolean("bool", true);
+    }
+
+    public static void setBool(Context context, boolean jump) {
+        SharedPreferences setBool = context.getSharedPreferences("Bool", Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = setBool.edit();
+        editor.putBoolean("bool", jump);
+        editor.commit();
     }
 }
